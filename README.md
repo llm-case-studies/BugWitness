@@ -31,6 +31,9 @@ BugWitness is the specialist app on top:
 - [docs/VISION.md](docs/VISION.md)
 - [docs/CONCEPT.md](docs/CONCEPT.md)
 - [docs/RELATION_TO_IHN.md](docs/RELATION_TO_IHN.md)
+- [docs/USE_CASES.md](docs/USE_CASES.md)
+- [docs/MODULES.md](docs/MODULES.md)
+- [docs/ROADMAP.md](docs/ROADMAP.md)
 
 ## Working direction
 
@@ -48,3 +51,12 @@ Longer-term:
 - regression clustering
 - bug report generation
 - overlap with marketplace / investigation style evidence collection
+
+## First framing
+
+The first credible BugWitness shape is:
+
+- scenario-driven browser and mobile-web testing
+- evidence-first bug capture rather than vanity automation
+- OCR, speech, and screenshot support when normal DOM assertions are not enough
+- reproducible markdown findings that can be handed to humans or agents
