@@ -33,4 +33,5 @@ Examples:
 | 2026-04-30 | GPT-OSS-120B Marketing | 2 | Reality-Capture tagline, dual-view as strongest unique prop, positioning matrix vs Loom/Playwright, compliance blog series, viral demo, action items with owners |
 | 2026-04-30 | Minimax on Marketing | 2 | Accountability gap, pricing paradox, trial-to-revenue mechanism, non-technical founder mental model, report designed for receiver, "Proof" not "Evidence", re-witness as structural payoff |
 | 2026-04-30 | Kimi-K2.6 on Marketing | 2 | Viral report mechanics, land-and-expand dynamics, pricing page psychology, category semantics, competitive response anticipation, open-core community moat, chasm crossing |
+| 2026-04-30 | Qwen on Marketing | 2 | Too many contradictory wedges, "witness" brand liability analysis, developer ecosystem flywheel, Micro-Waterfall response, value-based pricing, Golden Report production plan, Round 2 contradiction resolution framework |
 | 2026-04-30 | Gemini 3.1 Pro Sidenote | - | Provocation on AI rehabilitating Waterfall methodologies (Micro-Waterfall), Big Design Up Front, poking at Agile purists |
