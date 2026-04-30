@@ -25,5 +25,7 @@ Examples:
 | 2026-04-30 | Minimax | 1 | Evidence narrative coherence, cross-module handoff protocols, trust propagation, evidence staleness, dual-view bundles, scenario isolation, finding prioritization |
 | 2026-04-30 | Claude Opus | 1 | Finding lifecycle & resolution loop, self-witness capability, cross-boundary evidence, scenario topology, evidence-vs-insight gap, scenario sharing semantics |
 | 2026-04-30 | Gemini 3.1 Pro | 1 | Evidence privacy & redaction, observation overhead (Heisenbugs), state pollution & cleanup hooks, flakiness vs failures, dual-view artifacts |
+| 2026-04-30 | GPT-OSS-120B | 1 | Scenario DSL sketch, browser adapter abstraction, self-witness & coverage, cross-boundary evidence port, scenario topology, bundle model, open-core licensing |
 | 2026-04-30 | Codex | 1 | iHomeNerd capability negotiation, accessibility evidence, expectation provenance, analyzer drift, human checkpoints, evidence budgets, permission ledger |
 | 2026-04-30 | Codex on Marketing | 2 | Marketing, positioning, branding, target customers, why BugWitness, Playwright alternatives, messaging, first demo wedge |
+| 2026-04-30 | Claude Opus on Marketing | 2 | Emotional purchase journey, "evidence-first" brand risk, aha moment design, three-panel positioning, answers to Codex's 10 questions, Golden Report strategy, offline-first as market moat |
