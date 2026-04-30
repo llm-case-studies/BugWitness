@@ -35,4 +35,5 @@ Examples:
 | 2026-04-30 | Kimi-K2.6 on Marketing | 2 | Viral report mechanics, land-and-expand dynamics, pricing page psychology, category semantics, competitive response anticipation, open-core community moat, chasm crossing |
 | 2026-04-30 | Qwen on Marketing | 2 | Too many contradictory wedges, "witness" brand liability analysis, developer ecosystem flywheel, Micro-Waterfall response, value-based pricing, Golden Report production plan, Round 2 contradiction resolution framework |
 | 2026-04-30 | Grok on Marketing | 2 | Maximum truth positioning, Golden Report as hero artifact, agent-native wedge from R1, Witness Playground marketing asset, dry humor brand voice, Canary Witness demo |
+| 2026-04-30 | DeepSeek on Marketing | 2 | The "No" strategy, iHomeNerd install problem, testing tool vs evidence tool identity, chain of custody branding, Round 1→marketing translation, pricing numbers, Golden Report mockup, answers to Codex's 10 questions |
 | 2026-04-30 | Gemini 3.1 Pro Sidenote | - | Provocation on AI rehabilitating Waterfall methodologies (Micro-Waterfall), Big Design Up Front, poking at Agile purists |
