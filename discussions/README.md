@@ -21,3 +21,4 @@ Examples:
 | 2026-04-30 | Grok | 1 | AI scenario co-evolution, flakiness handling, evidence as training data, Witness Playground, agentic bug investigator |
 | 2026-04-30 | Nemotron | 1 | Module interfaces, evidence format standardization, partial success modeling, local storage strategy, evidence integrity |
 | 2026-04-30 | Qwen | 1 | Implementation scaffolding gap, evidence storage growth, error taxonomy, TapTrace scope ambiguity, scenario versioning, execution strategy |
+| 2026-04-30 | Kimi-K2.6 | 1 | Agent-loop authoring, temporal evidence coherence, privacy-by-design, determinism–realism tension, cold-start baselines, markdown as dual-view artifact |
