@@ -24,3 +24,4 @@ Examples:
 | 2026-04-30 | Kimi-K2.6 | 1 | Agent-loop authoring, temporal evidence coherence, privacy-by-design, determinism–realism tension, cold-start baselines, markdown as dual-view artifact |
 | 2026-04-30 | Minimax | 1 | Evidence narrative coherence, cross-module handoff protocols, trust propagation, evidence staleness, dual-view bundles, scenario isolation, finding prioritization |
 | 2026-04-30 | Claude Opus | 1 | Finding lifecycle & resolution loop, self-witness capability, cross-boundary evidence, scenario topology, evidence-vs-insight gap, scenario sharing semantics |
+| 2026-04-30 | Gemini 3.1 Pro | 1 | Evidence privacy & redaction, observation overhead (Heisenbugs), state pollution & cleanup hooks, flakiness vs failures, dual-view artifacts |
