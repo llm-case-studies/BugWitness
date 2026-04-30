@@ -18,3 +18,6 @@ Examples:
 | Date | Reviewer | Round | Key Themes |
 |------|----------|-------|------------|
 | 2026-04-30 | DeepSeek | 1 | Schema ambiguity, browser harness gap, mobile probe underdefined, Fixture Lab thin, Session Manager placement, market fit & positioning |
+| 2026-04-30 | Grok | 1 | AI scenario co-evolution, flakiness handling, evidence as training data, Witness Playground, agentic bug investigator |
+| 2026-04-30 | Nemotron | 1 | Module interfaces, evidence format standardization, partial success modeling, local storage strategy, evidence integrity |
+| 2026-04-30 | Qwen | 1 | Implementation scaffolding gap, evidence storage growth, error taxonomy, TapTrace scope ambiguity, scenario versioning, execution strategy |
