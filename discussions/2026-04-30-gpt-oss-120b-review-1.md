@@ -1,7 +1,7 @@
-# Antigravity Review — Round 1
+# GPT-OSS-120B Review — Round 1
 
 **Date:** 2026-04-30
-**Reviewer:** Antigravity
+**Reviewer:** GPT-OSS-120B
 **Docs reviewed:** VISION.md, CONCEPT.md, ROADMAP.md, MODULES.md, USE_CASES.md, RELATION_TO_IHN.md, SESSION_PORTABILITY_MANAGER_SPEC_2026-04-29.md, discussions/README.md, all prior DeepSeek/Grok/Nemotron/Qwen/Kimi-K2.6/Minimax reviews
 
 ## Summary
