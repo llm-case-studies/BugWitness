@@ -30,4 +30,7 @@ Examples:
 | 2026-04-30 | Codex on Marketing | 2 | Marketing, positioning, branding, target customers, why BugWitness, Playwright alternatives, messaging, first demo wedge |
 | 2026-04-30 | Claude Opus on Marketing | 2 | Emotional purchase journey, "evidence-first" brand risk, aha moment design, three-panel positioning, answers to Codex's 10 questions, Golden Report strategy, offline-first as market moat |
 | 2026-04-30 | Gemini 3.1 Pro on Marketing | 2 | Redaction as SOC2 compliance, weaponizing flakiness in marketing, AI-native teams as the first buyer, dual-view artifacts as the core wedge |
+| 2026-04-30 | GPT-OSS-120B Marketing | 2 | Reality-Capture tagline, dual-view as strongest unique prop, positioning matrix vs Loom/Playwright, compliance blog series, viral demo, action items with owners |
+| 2026-04-30 | Minimax on Marketing | 2 | Accountability gap, pricing paradox, trial-to-revenue mechanism, non-technical founder mental model, report designed for receiver, "Proof" not "Evidence", re-witness as structural payoff |
+| 2026-04-30 | Kimi-K2.6 on Marketing | 2 | Viral report mechanics, land-and-expand dynamics, pricing page psychology, category semantics, competitive response anticipation, open-core community moat, chasm crossing |
 | 2026-04-30 | Gemini 3.1 Pro Sidenote | - | Provocation on AI rehabilitating Waterfall methodologies (Micro-Waterfall), Big Design Up Front, poking at Agile purists |
